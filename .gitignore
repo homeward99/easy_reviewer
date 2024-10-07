@@ -1,0 +1,39 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directories
+venv/
+env/
+.venv/
+
+# Ignore IDE-specific files and directories
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
+
+# Ignore environment configuration files
+.env
+
+# Ignore output directories
+Completed/
+
+# Ignore docs folder
+Docs/
+
+# Ignore temporary files
+*.tmp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore package manager directories
+node_modules/
+
+# Ignore package-lock files
+package-lock.json
+yarn.lock
+
